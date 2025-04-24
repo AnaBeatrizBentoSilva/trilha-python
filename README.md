@@ -23,24 +23,37 @@ Cada pasta representa um projeto individual
 
 ```plaintext
 .
-├── aula1/
-│   └── primeiro.html
-├── aula2/
-│   └── principais_tags_html_p1.html
-├── aula3/
-│   └── principais_tags_html_p2.html
-├── aula4/
-│   └── tags_formatacao_texto.html
-├── aula5/
-│   └── elementos_semanticos.html
-├── aula6/
-│   ├── barra_navegacao.html
-│   ├── blog.html
-│   └── portfolio.html
-├── aula7/
-│   └── tabelas.html
-├── aula8/
-│   └── formularios.html
-├── images/
-│   └── html.jpg
+├── .ipynb_checkpoints/
+│   ├── alunos_star_wars-checkpoint.csv
+│   ├── aula_primeiros_passos-checkpoint.ipynb
+│   ├── notas-checkpoint.txt
+│   ├── Notebook 0 - introdução, jupyter e variáveis-checkpoint.ipynb
+│   ├── Notebook 10 - arquivos-checkpoint.ipynb
+│   └── ola_mundo-checkpoint.txt
+├── chatgpt/
+│   ├── .ipynb_checkpoints/
+│   │    ├── Case-GenAI-checkpoint.ipynb
+│   │    ├── resumos_paises_tecnico-checkpoint.pdf
+│   │    └── resumos_paises-checkpoint.pdf
+│   ├── Case-GenAI.ipynb
+│   ├── Cenário Econômico.pdf
+│   ├── resumos_paises_tecnico.pdf
+│   └── resumos_paises.pdf
+├── alunos_star_wars.csv
+├── aula_primeiros_passos.ipynb
+├── notas.txt
+├── Notebook 0 - introdução, jupyter e variáveis.ipynb
+├── Notebook 1 - tipos de dados, input output, operadores matemáticos.ipynb
+├── Notebook 2 - operadores lógicos, condicionais e while.ipynb
+├── Notebook 3 - listas e loop for.ipynb
+├── Notebook 4 - strings.ipynb
+├── Notebook 5 - funções e bibliotecas.ipynb
+├── Notebook 6 - tuplas, dicionários e conjuntos.ipynb
+├── Notebook 7 - POO 1 - classes simples.ipynb
+├── Notebook 8 - POO 2 - métodos mágicos.ipynb
+├── Notebook 9 - POO 3 - herança e polimorfismo.ipynb
+├── Notebook 10 - arquivos.ipynb
+├── ola_mundo.txt
+├── ola_mundo2.txt
+├── ola_mundo3.txt
 └── README.md
