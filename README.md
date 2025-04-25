@@ -39,9 +39,6 @@ Cada pasta representa um projeto individual
 │   ├── Cenário Econômico.pdf
 │   ├── resumos_paises_tecnico.pdf
 │   └── resumos_paises.pdf
-├── alunos_star_wars.csv
-├── aula_primeiros_passos.ipynb
-├── notas.txt
 ├── Notebook 0 - introdução, jupyter e variáveis.ipynb
 ├── Notebook 1 - tipos de dados, input output, operadores matemáticos.ipynb
 ├── Notebook 2 - operadores lógicos, condicionais e while.ipynb
@@ -53,7 +50,10 @@ Cada pasta representa um projeto individual
 ├── Notebook 8 - POO 2 - métodos mágicos.ipynb
 ├── Notebook 9 - POO 3 - herança e polimorfismo.ipynb
 ├── Notebook 10 - arquivos.ipynb
+├── README.md
+├── alunos_star_wars.csv
+├── aula_primeiros_passos.ipynb
+├── notas.txt
 ├── ola_mundo.txt
 ├── ola_mundo2.txt
-├── ola_mundo3.txt
-└── README.md
+└── ola_mundo3.txt
